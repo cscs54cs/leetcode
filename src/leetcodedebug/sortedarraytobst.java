@@ -1,5 +1,5 @@
 package leetcodedebug;
-
+/* Given a sorted array, build a BST */
 public class sortedarraytobst {
     public TreeNode sortedArrayToBST(int[] num) {
         if(num.length==0)
